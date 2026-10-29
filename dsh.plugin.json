@@ -1,0 +1,12 @@
+{
+  "name": "dsh-tribot-team",
+  "description": "TriBot Bot team: /tribot skill + composer role picker",
+  "version": "0.1.0",
+  "entry": {
+    "name": "dsh-tribot-role-picker",
+    "inject": []
+  },
+  "client": {
+    "platform": "web"
+  }
+}
